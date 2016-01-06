@@ -1,0 +1,5 @@
+E:\c#\Data_Insertion_App\Data_Insertion_App\bin\Data_Insertion_App.dll
+E:\c#\Data_Insertion_App\Data_Insertion_App\bin\Data_Insertion_App.pdb
+E:\c#\Data_Insertion_App\Data_Insertion_App\obj\Debug\Data_Insertion_App.csprojResolveAssemblyReference.cache
+E:\c#\Data_Insertion_App\Data_Insertion_App\obj\Debug\Data_Insertion_App.dll
+E:\c#\Data_Insertion_App\Data_Insertion_App\obj\Debug\Data_Insertion_App.pdb
